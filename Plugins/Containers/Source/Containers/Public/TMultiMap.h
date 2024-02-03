@@ -144,7 +144,6 @@ public:
 			, ToolTip = "Empties the multi map - set NewCapacity to zero if you dont need to reserve space for new content, otherwise provide the expected capacity"))
 	FORCEINLINE void MM_Empty(int32 NewCapacity)
 	{
-		TArray<FTMultiMapTestStruct> values;
 		this->BA_MultiMap.Empty(NewCapacity);
 	}
 

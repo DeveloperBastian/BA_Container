@@ -11,6 +11,7 @@ Tutorials released until now:
 -	[DataTable](https://youtu.be/le4VYlJXASg)
 -	[Queue](https://youtu.be/UJOrwTtWQBg)
 -	[MultiMap](https://youtu.be/HffUZPG_-vQ)
+-	[Set](https://youtu.be/ZfjnXZ-bpuU)
 
 ##Presentation##
 
