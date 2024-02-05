@@ -12,6 +12,7 @@ Tutorials released until now:
 -	[Queue](https://youtu.be/UJOrwTtWQBg)
 -	[MultiMap](https://youtu.be/HffUZPG_-vQ)
 -	[Set](https://youtu.be/ZfjnXZ-bpuU)
+-	[Array](https://youtu.be/RBKHzy4XRbc)
 
 ##Presentation##
 
