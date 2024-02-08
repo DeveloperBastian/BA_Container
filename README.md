@@ -13,6 +13,7 @@ Tutorials released until now:
 -	[MultiMap](https://youtu.be/HffUZPG_-vQ)
 -	[Set](https://youtu.be/ZfjnXZ-bpuU)
 -	[Array](https://youtu.be/RBKHzy4XRbc)
+-	[Map](https://youtu.be/YNt_3m4KYos)
 
 ##Presentation##
 

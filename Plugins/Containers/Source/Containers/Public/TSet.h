@@ -64,7 +64,7 @@ public:
 	{
 		return A.Name > B.Name;
 	}
-#pragma endregion Sorting
+	#pragma endregion Sorting
 
 	#pragma region Mandatory Functions
 // generates a hash from the struct
@@ -101,9 +101,7 @@ class UTSet : public UObject
 public:
 
 	UTSet()
-	{
-
-	}
+	{}
 
 	#pragma region Delegates
 

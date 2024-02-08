@@ -1,0 +1,2 @@
+// using Image Magick to resize icons - target should be 64px
+for %i IN (*.png) DO (magick %i -resize 4.1666% %i)

@@ -60,8 +60,11 @@ class UTMultiMap : public UObject
 public:
 
 	UTMultiMap()
-	{
+	{}
 
+	~UTMultiMap()
+	{
+		BA_MultiMap.Reset();
 	}
 
 	#pragma region Delegates

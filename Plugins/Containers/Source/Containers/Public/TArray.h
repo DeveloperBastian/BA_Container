@@ -89,8 +89,7 @@ public:
 DECLARE_DYNAMIC_MULTICAST_DELEGATE_OneParam(FOnArrayChanged, bool, Changed);
 
 /**
- * Class to encapsulate TMultiMap
- * A TMapBase specialization that allows multiple values to be associated with each key.
+ * Class to encapsulate TArray with examples for sorting and filtering
  */
 UCLASS(BlueprintType, Transient)
 class UTArray : public UObject
@@ -100,8 +99,11 @@ class UTArray : public UObject
 public:
 
 	UTArray()
-	{
+	{}
 
+	~UTArray()
+	{
+		BA_Array.Reset();
 	}
 
 	#pragma region Delegates

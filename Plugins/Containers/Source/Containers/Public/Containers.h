@@ -8,7 +8,7 @@
 class FContainersModule : public IModuleInterface
 {
 public:
-
+	static inline TSharedPtr<FSlateStyleSet> BA_StyleSet = nullptr;
 	/** IModuleInterface implementation */
 	virtual void StartupModule() override;
 	virtual void ShutdownModule() override;
